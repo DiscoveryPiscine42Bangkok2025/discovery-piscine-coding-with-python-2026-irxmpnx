@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-number = float(input())
+number = float(input("Give me a number: "))
 
 if int(number) == number:
     print("This number is an integer.")
